@@ -3,7 +3,7 @@
     "myStringFlag": {
       "state": "ENABLED",
       "variants": {
-        "key1": "version1234567891-"
+        "key1": "version999999999"
       },
       "defaultVariant": "key1"
     }
