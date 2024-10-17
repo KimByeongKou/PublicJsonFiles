@@ -1,0 +1,13 @@
+flags:
+  # routing per core api
+  routing_get_core_domestic-stock_accounts:
+    state: ENABLED
+    variants:
+      default: snet/core/stock/accounts
+    defaultVariant: default
+
+  routing_post_core_domestic-stock_accounts:
+    state: ENABLED
+    variants:
+      default: put/linked/meta/domestic/stock/accounts
+    defaultVariant: default
