@@ -1,0 +1,11 @@
+{
+  "flags": {
+    "routing_get_core_domestic-stock_accounts": {
+      "state": "ENABLED",
+      "variants": {
+        "key1": "version999999999"
+      },
+      "defaultVariant": "key1"
+    }
+  }
+}
