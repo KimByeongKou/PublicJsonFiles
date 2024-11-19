@@ -1,2 +1,10 @@
-key1: val1
-key2: val2
+spring:
+  application:
+    name: myapp
+  datasource:
+    url: jdbc:mysql://localhost:3306/mydb
+    username: myuser
+    password: mypassword
+
+server:
+  port: 8080
